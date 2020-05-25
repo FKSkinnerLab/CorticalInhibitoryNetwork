@@ -1,7 +1,9 @@
 # CorticalInhibitoryNetwork
 Code for Scott Rich's submission to eNeuro on bistability in cortical inhibitory networks.
 
-Citation: TBA. License: GNU GENERAL PUBLIC LICENSE. Contact: Scott Rich, sbrich@umich.edu.
+Citation: Scott Rich, Homeira Moradi Chameh, Marjan Rafiee, Katie Ferguson, Frances K. Skinner and Taufik A. Valiante. "Inhibitory network bistability explains increased interneuronal activity prior to seizure onset." Frontiers in Neural Circuits, 13, 2020.
+
+License: GNU GENERAL PUBLIC LICENSE. Contact: Scott Rich, sbrich@umich.edu.
 
 Simulations:
 
